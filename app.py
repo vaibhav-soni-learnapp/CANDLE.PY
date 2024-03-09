@@ -4,7 +4,7 @@ from datetime import datetime
 
 from bokeh.plotting import figure, column
 
-import TA-Lib
+import ta-lib
 
 st.set_page_config(layout="wide", page_title="Candlestick App with Technical Indicators")
 
